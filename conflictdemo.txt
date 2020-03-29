@@ -1,3 +1,4 @@
 content added by master branch
 2nd line added by master
-
+added line for conflict demo
+added semething 
